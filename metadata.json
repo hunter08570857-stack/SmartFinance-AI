@@ -1,0 +1,5 @@
+{
+  "name": "SmartFinance AI - 個人化財務管理系統",
+  "description": "一個結合 Gemini AI 的個人化財務管理系統，支援多帳戶管理、收支追蹤、視覺化圖表與 AI 財務建議。提供展示模式與 Firebase 正式模式切換。",
+  "requestFramePermissions": []
+}
